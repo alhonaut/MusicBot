@@ -8,13 +8,13 @@ import requests
 
 service = 'youtube'
 version = 'v3'
-API = 'AIzaSyAzGj6FnI34Gy6vUot0uhMIBdSEP8wi8ss'
+API = 'API'
 
 YDL_OPT = {'format': 'bestaudio', 'noplaylist': 'True', 'force-ipv4': 'True', 'cachedir': 'False'}
 
 FFMPEG_OPT = {'before_options': '-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5', 'options': '-vn'}
 
-TOKEN = 'OTU2ODg1NTQ1OTAzMDk1ODI4.Yj2vHA.uDcP2FTAitX25ByDM9V-45SaApI'
+TOKEN = 'TOKEN'
 
 list_of_songs = []
 list_of_roles = ['@everyone']
