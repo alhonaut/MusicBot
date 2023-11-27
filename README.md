@@ -1,1 +1,1 @@
-Музикальний бот для діскорда на кшалт Rhytm або Groovy.
+Music bot for Discord similar to Rhytm or Groovy.
